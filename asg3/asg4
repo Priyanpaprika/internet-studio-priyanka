@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="en">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&family=Varela+Round&display=swap" rel="stylesheet">
+
+<head>
+    <title>Assignment 4.5: Least Favorite Artist</title>
+</head>
+
+<a href="jojoSiwa.jpeg">
+        <img src="jojoSiwa.jpeg" width="300" height="300">
+    </a>
+
+
+    <body>
+
+    <h2>Jojo Siwa</h2>
+        <p>Jojo Siwa is a girl that used to be a reality TV Star famous from the show "Dance Moms." She then decided to make the terrible mistake of deciding to make music again. Her crimes against my ears starting racking up then, she even wentas far as to say that she invented "gay pop.
+        Shame on her.</p>
+        <br><br>
+    <h2>Better Artists than Jojo (Literally ANYONE ELSE)</h2>
+        <ul>
+                  <li>Paramore</li>
+                  <li>100 Gecs</li>
+                  <li>Suzy Sheer</li>
+                </ul>
+        <br><br>
+
+            <table>
+                <thead>
+                       <tr>
+                         <th>Ranking Her Terrible Songs</th>
+                       </tr>
+                 </thead>
+                      <tr>
+                        <td>Karma</td>
+                        <td>Guilty Pleasure</td>
+                        <td>Bulletproof</td>
+                      </tr>
+                      <tr>
+                        <td>2024</td>
+                        <td>2024</td>
+                        <td>2025</td>
+                      </tr>
+                      <tr>
+                        <td>1.59 out of 5</td>
+                        <td>2.06 out of 5</td>
+                        <td>1.56 out of 5</td>
+                      </tr>
+                </table>
+
+    
