@@ -33,3 +33,6 @@ p{
   font-family: "Varela Round", sans-serif;
    color: deeppink;
 }
+body{
+  background-image: url(./assets/pinkypinkbg.jpeg);
+}
