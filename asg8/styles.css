@@ -1,0 +1,24 @@
+.borel-regular {
+  font-family: "Borel", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.varela-round-regular {
+  font-family: "Varela Round", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+h1, h2, h3{
+  font-family: "Borel", cursive;
+  color: Blue;
+}
+
+p{
+  font-family: "Varela Round", sans-serif;
+   color: lightBlue;
+}
+body{
+  background-image: url(img/plaidBlue.jpeg);
+}
