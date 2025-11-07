@@ -87,3 +87,13 @@ footer {
     color: white;
     margin-top: 40px;
 }
+img {
+    width: 250px;         
+    height: auto;          
+    display: block;        
+    margin: 15px auto;     
+    
+    border: 4px solid #6b8f5c;   
+    border-radius: 10px;   
+    box-shadow: 0 3px 6px rgba(0,0,0,0.12); 
+}
