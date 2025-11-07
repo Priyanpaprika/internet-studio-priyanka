@@ -1,0 +1,89 @@
+body {
+    background: #e6f2df; 
+    font-family: "Trebuchet MS", Arial, sans-serif;
+    color: #2f3e2e; 
+    margin: 0;
+    padding: 0;
+}
+
+
+header {
+    background: linear-gradient(to bottom, #4f6f46, #3f5938);
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+    border-bottom: 4px solid #2f3e2e;
+}
+
+header h1 {
+    font-size: 2.2rem;
+    letter-spacing: 2px;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 15px 0 0 0;
+}
+
+nav li {
+    display: inline-block;
+    margin: 0 8px;
+}
+
+nav a {
+    text-decoration: none;
+    background: #739b63;
+    color: #f1f6ed;
+    padding: 10px 20px;
+    border-radius: 8px;
+    border: 1px solid #3d5737;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.15);
+    transition: background 0.25s, transform 0.2s;
+}
+
+nav a:hover {
+    background: #567a4e;
+    transform: translateY(-2px);
+}
+
+.section-box {
+    max-width: 900px;
+    background: #f4faef;
+    margin: 30px auto;
+    padding: 25px;
+    border-left: 8px solid #6b8f5c; 
+    border-radius: 10px;
+    box-shadow: 0 3px 6px rgba(0,0,0,0.12);
+}
+
+.section-box h2 {
+    margin-top: 0;
+    color: #3d5737;
+    border-bottom: 2px solid #c8d8c0;
+    padding-bottom: 8px;
+}
+
+.button {
+    display: inline-block;
+    padding: 10px 18px;
+    background: #6e9b68;
+    color: white;
+    border-radius: 6px;
+    border: 1px solid #3f5938;
+    text-decoration: none;
+    font-weight: bold;
+    transition: background 0.25s;
+}
+
+.button:hover {
+    background: #577c53;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    background: #3f5938;
+    color: white;
+    margin-top: 40px;
+}
